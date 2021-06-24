@@ -6,10 +6,6 @@ function App() {
   return (
     <div className="App">
      <Fetch/>
-     <Fetch/>
-     <Fetch/>
-     <Fetch/>
-     <Fetch/>
     </div>
   );
 }
