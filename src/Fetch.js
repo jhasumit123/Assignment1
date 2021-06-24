@@ -12,6 +12,10 @@ export default function Fetch() {
     })
     return (
         <div>
+         <img src={require('./single.png').default}/>
+          <img src={require('./single.png').default}/>
+          <img src={require('./single.png').default}/>
+          <img src={require('./single.png').default}/>
           <img src={require('./single.png').default}/>
             {
                
